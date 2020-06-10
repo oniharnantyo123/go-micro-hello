@@ -1,4 +1,4 @@
-module greeting
+module github.com/oniharnantyo123/go-micro-hello/greeting
 
 go 1.13
 
